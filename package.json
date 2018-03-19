@@ -1,0 +1,31 @@
+{
+  "name": "react-native-deck-swipe",
+  "version": "1.0.1",
+  "description": "Swipe card implementation for React Native",
+  "main": "Deck.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/200even/react-native-deck-swipe.git"
+  },
+  "keywords": [
+    "tinder",
+    "swipe",
+    "react",
+    "animation",
+    "deck"
+  ],
+  "author": "Scott Ferguson <scott@fergusoniclabs.net> (https://fergusoniclabs.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/200even/react-native-deck-swipe/issues"
+  },
+  "homepage": "https://github.com/200even/react-native-deck-swipe#readme",
+  "devDependencies": {
+    "eslint": "^4.19.0",
+    "eslint-config-rallycoding": "^3.2.0"
+  },
+  "files": [
+    "Deck.js",
+    "Card.js"
+  ]
+}
